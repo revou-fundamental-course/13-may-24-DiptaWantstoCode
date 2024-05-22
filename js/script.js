@@ -1,5 +1,5 @@
 document.getElementById("switch-keliling").onclick = function(){
-    
+    document.getElementById("keliling").scrollIntoView();
 }
 //Luas
 

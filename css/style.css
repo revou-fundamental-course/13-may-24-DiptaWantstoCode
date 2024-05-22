@@ -4,9 +4,10 @@ header{
 
 .section-content {
     background-color: cadetblue;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
+    font-size: 25px;
 }
 
 .section-content>h3{
@@ -49,6 +50,11 @@ div>button{
 }
 
 #reset-btn {
+    background-color: chocolate;
+    border: 1px solid chocolate;
+    color: white;
+}
+#reset-keliling {
     background-color: chocolate;
     border: 1px solid chocolate;
     color: white;
